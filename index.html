@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PassX</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<div class="navbar">
+  <div class="logo">PassX</div>
+
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Contact Us</a>
+  </div>
+
+  <div class="nav-right" id="navRight">
+    <a href="auth.html">Login / Signup</a>
+  </div>
+</div>
+
+<!-- Main Content -->
+<div class="main">
+  <div class="container">
+    <h1>Welcome to PassX 🔐</h1>
+
+    <p>
+      Securely store and manage all your passwords in one place.
+      Simple, fast, and safe.
+    </p>
+
+    <button onclick="goToAuth()">Get Started</button>
+  </div>
+</div>
+
+<script>
+function goToAuth() {
+  window.location.href = "auth.html";
+}
+</script>
+</body>
+</html>
