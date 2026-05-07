@@ -22,3 +22,7 @@ https://passx-2b164.web.app
 3. Database: Firebase Realtime Database / Firestore
 4. Authentication: Firebase Auth
 5. Hosting: Firebase Hosting
+
+Screenshots
+<img width="1907" height="913" alt="image" src="https://github.com/user-attachments/assets/705a99c6-20fd-4ff1-aa31-5da76358bbb8" />
+<img width="1911" height="912" alt="image" src="https://github.com/user-attachments/assets/2e2ef5ff-bfe4-41c2-b1c0-90ef14b62f1e" />
